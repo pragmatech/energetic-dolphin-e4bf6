@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Instantly Boost Your Productivity
+    title: Hella Boost Your Productivity
     subtitle: >-
       Stop switching between calendars and task lists!
     content: >-
